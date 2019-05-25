@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ErasmusApp</string>
+    <string name="btn_joinGroup">Join Group</string>
+    <string name="btn_createGroup">Create Group</string>
+    <string name="edt_name">Insert your name</string>
+    <string name="edt_CreateGroupName">Insert your group name</string>
+    <string name="validation_Insert_Name">Insert you name</string>
+    <string name="validation_Insert_Link">Insert you Link</string>
+    <string name="group_created">Group Created!</string>
+    <string name="Share_link">Share you link with friend and family!</string>
+    <string name="Taost_copy">Copied</string>
+    <string name="btn_done">DONE</string>
+    <string name="Join_Group">Join Group!</string>
+    <string name="Input_link">Input You invitation link!</string>
+    <string name="hint_InvitationLink">Insert Invitation Link</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
